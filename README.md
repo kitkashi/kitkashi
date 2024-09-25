@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kitkashi
-- 👀 I’m interested in swe!
+- 👋 Hi, I’m Kit!
+- 👀 I’m interested in swe
 - 🌱 I’m currently learning how to make a webscraper
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me @kitkashi    
